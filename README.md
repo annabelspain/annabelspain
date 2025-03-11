@@ -1,6 +1,6 @@
 <div "Hero">
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&animation=fadeIn&section=header&fontSize=80&text=Welcome&fontColor=d6ace6&desc=To%20Annabels%20Github%20Profile" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&animation=fadeIn&section=header&fontSize=60&text=Hey,%20I'm%20Annabel&fontColor=424949" />
   </p>
 </div>
 
@@ -9,9 +9,8 @@
   <div "quote">
     
   > When you first become an artist, you are like that rock. You're in a raw natural state with hidden gems inside. You have to dig down deep and find the emeralds tucked away inside you. And that's just the beginning. Once you've found your gems you have to polish them. It takes a lot of hard work. Oh, and here's the tricky part: look at the crack in the Geode. You see the big green crystal there? You could spend years polishing that and it wouldn't be worth much at all. The smaller crystals are much more valuable, and there may be some even deeper inside that we can't see which are even more precious.
-   
-  <p align="right">— Shirō Nishi, Whisper of the Heart (1995)</p>   
-  
+    <p align="right">— Shirō Nishi, Whisper of the Heart (1995)</p>
+
   </div>
   
   <br>
