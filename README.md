@@ -6,14 +6,6 @@
 
 <div "content">
 
-  <div "Connect">
-    <h2> 💬 &nbsp;Let's connect</h2>
-      <a href="[https://www.linkedin.com/in/thepiyushmalhotra/](https://www.linkedin.com/in/annabelspain123/)">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-      </a>
-    </p>
-  </div>
-
   <br>
 
   <div "yaml">
@@ -83,17 +75,21 @@
 
   <div "Personal stats">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=annabelspain" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=annabelspain&theme=ambient_gradient&show_icons=true&rank_icon=github" />
     </a>
     <a href="https://github.com/annabelspain/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annabelspain&layout=compact&langs_count=8&card_width=320" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annabelspain&layout=compact&langs_count=8&card_width=400&theme=ambient_gradient" />
     </a>
   </div>
 
   <br>
 
-  <div "snakey"> 
-    ![Snake animation](https://github.com/annabelspain/annabelspain/blob/output/github-contribution-grid-snake.svg)
+  <div "Connect">
+    <h2> 💬 &nbsp;Let's connect</h2>
+      <a href="https://www.linkedin.com/in/annabelspain123/">
+        <img height="50" src="https://cdn1.iconfinder.com/data/icons/brands-jolly/210/linkedin-social-network-brand-logo-512.png"/>
+      </a>
+    </p>
   </div>
 
 </div>
