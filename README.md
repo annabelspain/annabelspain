@@ -6,6 +6,22 @@
 
 <div "content">
 
+  <div "quote">
+    
+  > When you first become an artist, you are like that rock. You're in a raw natural state with hidden gems inside. You have to dig down deep and find the emeralds tucked away inside you. And that's just the beginning. Once you've found your gems you have to polish them. It takes a lot of hard work. Oh, and here's the tricky part: look at the crack in the Geode. You see the big green crystal there? You could spend years polishing that and it wouldn't be worth much at all. The smaller crystals are much more valuable, and there may be some even deeper inside that we can't see which are even more precious.
+   
+  <p align="right">— Shirō Nishi, Whisper of the Heart (1995)</p>   
+  
+  </div>
+  
+  <br>
+
+  <div "gif_1" align="center">
+    
+  ![Haku](https://github.com/annabelspain/annabelspain/blob/main/haku.gif)
+    
+  </div>
+
   <br>
 
   <div "yaml">
@@ -89,7 +105,6 @@
       <a href="https://www.linkedin.com/in/annabelspain123/">
         <img height="50" src="https://cdn1.iconfinder.com/data/icons/brands-jolly/210/linkedin-social-network-brand-logo-512.png"/>
       </a>
-    </p>
   </div>
 
 <div "gif_2" align="center">
