@@ -92,6 +92,12 @@
     </p>
   </div>
 
+<div "gif_2" align="center">
+  
+  ![Totoro](https://github.com/annabelspain/annabelspain/blob/main/totoro.gif)
+  
+</div>
+
 </div>
 
 <div "footer">
