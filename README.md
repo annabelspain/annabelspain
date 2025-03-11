@@ -7,17 +7,19 @@
 <div "content">
 
   <div "Connect">
-    <h2> 🚀 &nbsp;Let's connect:</h2>
-    <p align="left">
-      <a href="https://www.instagram.com/thepiyushmalhotra/">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <h2> 💬 &nbsp;Let's connect</h2>
+      <a href="[https://www.linkedin.com/in/thepiyushmalhotra/](https://www.linkedin.com/in/annabelspain123/)">
+        <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
       </a>
     </p>
   </div>
 
+  <br>
+
   <div "yaml">
+    <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
     
-    ```yaml  
+  ```yaml  
     name: Annabel Spain
     location: United Kingdom
     current_job: Full Stack Developer
@@ -27,6 +29,7 @@
         "BsC Hons Digital Media",
       ]
     company: Avanade
+    
     fields_of_interest: 
       [
         "DevOps",
@@ -35,6 +38,7 @@
         "Cloud Infrastructure",
         "Automation"
       ]
+      
     currently_learning: [ "PowerShell", "Azure Infrastructure", "React.js", "PowerShell" ]
     2025_goals:
       [
@@ -43,9 +47,11 @@
         "Advance knowledge within React.js"
       ]
     hobbies: [ "Anime", "Hiking", "Dogs", "Gaming" ]
-    ```
+  ```
     
   </div>
+
+  <br>
 
   <div "Tool icons">
     <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -69,10 +75,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="putty" width="45" height="45"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="45" height="45"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>   
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="45" height="45"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>                                                          
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="45" height="45"/>                                                        
     </p>
   </div>
+
+  <br>
 
   <div "Personal stats">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -83,8 +90,16 @@
     </a>
   </div>
 
+  <br>
+
   <div "snakey"> 
     ![Snake animation](https://github.com/annabelspain/annabelspain/blob/output/github-contribution-grid-snake.svg)
   </div>
 
+</div>
+
+<div "footer">
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  </p>
 </div>
