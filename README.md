@@ -78,7 +78,7 @@
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=annabelspain&theme=ambient_gradient&show_icons=true&rank_icon=github" />
     </a>
     <a href="https://github.com/annabelspain/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annabelspain&layout=compact&langs_count=8&card_width=400&theme=ambient_gradient" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annabelspain&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient" />
     </a>
   </div>
 
