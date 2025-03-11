@@ -1,6 +1,6 @@
 <div "Hero">
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&animation=fadeIn&section=header&fontSize=60&text=Hey,%20I'm%20Annabel&fontColor=424949" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&animation=fadeIn&section=header&fontSize=60&text=Hey,%20I'm%20Annabel👋&fontColor=424949" />
   </p>
 </div>
 
